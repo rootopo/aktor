@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">artis</string>
+
+    <string name="heroes_name">aktris</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Alim jatmika</string>
+    <string name="email">jatmika99handil@gmail.com</string>
+
+    <string-array name="data_name">
+        <item> Yuki Kato</item>
+        <item> Mawar Eva de Jongh</item>
+        <item> Tatjana Saphira</item>
+        <item> Bella Graceva</item>
+        <item> Rachel Amanda</item>
+        <item> Aghniny Haque</item>
+        <item> Tissa Biani</item>
+        <item> Prilly Latuconsina</item>
+        <item> Shenina Cinnamon</item>
+        <item> Febby Rastanty</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>dirinya menjadi populer dan dikenal oleh masyarakat luas setelah berhasil membintangi serial televisi berjudul Heart Series pada tahun 2007.</item>
+        <item>Mawar Eva de Jongh adalah aktris muda Indonesia yang merupakan keturunan Belanda-Karo, dengan nama keluarganya de Jongh, lahir di Belanda pada 26 September 2001.</item>
+        <item>atjana Saphira Hartmann yang kerap disapa dengan nama panggung Tatjana Saphira, lahir pada 21 Mei 1997 dan merupakan blasteran Jerman-Indonesia. </item>
+        <item>Bella merupakan aktris Indonesia yang memiliki keturunan Belanda-India, lahir pada 6 Juli 1999 dan berkarir juga sebagai model.</item>
+        <item>Rachel Amanda merupakan lulusan dari Universitas Indonesia di Fakultas Psikologi, itulah yang menyebabkannya jarang membintangi sinetron dan film. Setelah lulus, barulah dirinya kembali ke dunia seni peran.</item>
+        <item>Aghniny termasuk aktris yang sangat berbakat, baik di dunia seni peran maupun olahraga. Berkali-kali dirinya mendapatkan medali emas hingga perunggu untuk berbagai kejuaraan taekwondo, salah satunya pada SEA Games 2013.</item>
+        <item>Apakah Grameds termasuk yang antri untuk menonton film adaptasi dari thread Twitter milik akun Simpleman yang berjudul KKN di Desa Penari? Nah, pasti sudah tidak asing dong dengan tokoh Nur yang diperankan oleh Tissa Biani ini.</item>
+        <item>aktris muda Prilly Latuconsina mencuri perhatian masyarakat setelah dirinya menjadi dosen tamu di Universitas Gadjah Mada (UGM) dan mengajarkan Kajian Selebritas.</item>
+        <item>Bernama lengkap Shenina Syawalita Cinnamon yang lahir pada 1 Februari 1999, aktris ini memulai debutnya pada serial televisi berjudul Roman Picisan The Series sebagai Yasmin.</item>
+        <item>ama Febby Rastanty sebenarnya telah dikenal oleh masyarakat karena dirinya adalah aktris cilik. Salah satu serial televisi yang mengantarkannya ke gerbang kepopuleran adalah Eneng dan Kaos Kaki Ajaib pada tahun 2007.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aktor1</item>
+        <item>@drawable/aktor2</item>
+        <item>@drawable/aktor3</item>
+        <item>@drawable/aktor4</item>
+        <item>@drawable/aktor5</item>
+        <item>@drawable/aktor6</item>
+        <item>@drawable/aktor7</item>
+        <item>@drawable/aktor8</item>
+        <item>@drawable/aktor9</item>
+        <item>@drawable/aktor10</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>Yuki Anggraini Kato atau yang lebih dikenal dengan nama Yuki Kato ini lahir pada 2 April 1995. Dirinya merupakan anak pertama dari pasangan Takeshi Kato, seorang berdarah Jepang dan Italia, dengan Twinawati yang berdarah Jawa dan Sunda. Jadi, dapat dibilang bahwa Yuki Kato ini adalah aktris blasteran yang hingga saat ini masih aktif di layar kaca..</item>
+        <item>Dirinya berhasil mendapatkan pengakuan banyak masyarakat setelah memerankan Annelies Mellema dalam film berjudul Bumi Manusia pada tahun 2019 lalu. Tidak hanya sebagai aktris saja, Mawar Eva juga menjadi seorang penyanyi lho dengan nama panggung Mawar de Jongh. Sebagai penyanyi, dirinya juga telah merilis single berjudul “Lebih Dari Egoku” dan  “Sedang Sayang Sayangnya”..</item>
+        <item>Saat ini, Tatjana Saphira tidak hanya berkarir sebagai aktris saja tetapi juga sebagai model. Dirinya dipercaya oleh para perancang busana ternama untuk menjadi foto modelnya. Bahkan saking berprestasinya, Tatjana Saphira berhasil memenangkan penghargaan Pemeran Utama Wanita Terbaik pada ajang Festival Film Indonesia 2017, untuk perannya sebagai Mieke film Sweet 20. Sedikit trivia saja nih, film Sweet 20 ini adalah adaptasi dari film Korea Selatan yang berjudul Miss Granny..</item>
+        <item>Jika Grameds pernah menonton serial Imperfect The Series, pasti tidak asing dengan penampilan dari Bella Graceva yang berperan sebagai Riska Meong. Yap, Bella Graceva masuk pada aktris muda Indonesia yang ternyata pernah menjadi anggota dari grup BeSSaRa yang kemudian berganti nama sebagai Elovii. Grup ini aktif dari tahun 2011 hingga 2014.</item>
+        <item>Sama halnya dengan Yuki Kato, Rachel Amanda juga masuk jajaran aktris cilik yang masih mempertahankan kemampuan aktingnya di industri film Indonesia. Hayo, siapa yang masa kecilnya menonton sinetron Candy yang hits pada tahun 2007 dan diperankan oleh Rachel Amanda ini? Rachel Amanda Aurora lahir pada 1 Januari 1995 dan berkarir tidak hanya sebagai aktris saja, tetapi juga model, penyanyi, dan penulis.</item>
+        <item>Aghniny termasuk aktris yang sangat berbakat, baik di dunia seni peran maupun olahraga. Berkali-kali dirinya mendapatkan medali emas hingga perunggu untuk berbagai kejuaraan taekwondo, salah satunya pada SEA Games 2013. Sementara itu di dunia seni peran, Aghniny berhasil didapuk sebagai pemeran utama maupun pemeran pendukung di beragam film populer, sebut saja ada Perempuan Tanah Jahanam, Habibie dan Ainun 3, Generasi 90an: Melankolia, KKN di Desa Penari, hingga yang baru-baru ini tayang yakni Mencuri Raden Saleh.</item>
+        <item>Apakah Grameds termasuk yang antri untuk menonton film adaptasi dari thread Twitter milik akun Simpleman yang berjudul KKN di Desa Penari? Nah, pasti sudah tidak asing dong dengan tokoh Nur yang diperankan oleh Tissa Biani ini. Tissa Biani Azzahra lahir pada 24 Juli 2022 yang mengawali karir aktingnya pada film berjudul Tanah Surga….Katanya di tahun 2012 lalu. Atas kemampuan aktingnya yang tidak main-main, dirinya berhasil memenangkan Piala Citra untuk kategori Pemeran Anak Terbaik pada tahun 2014 atas film 3 Nafas Likas.</item>
+        <item>Prilly mencapai puncak popularitas setelah memerankan tokoh Sisi di sinetron Ganteng-Ganteng Serigala yang tayang di channel SCTV pada tahun 2014 lalu. Bahkan dirinya berhasil meraih penghargaan untuk kategori Aktris Utama Paling Ngetop dalam SCTV Award. Setelah itu, dirinya membintangi film-film populer yang tentu saja kembali melejitkan namanya, sebut saja ada Hangout, Danur Universe, Matt dan Mou, dan lainnya.</item>
+        <item>ejak saat itu, dirinya dianggap sebagai aktris muda berbakat dan lantas didapuk sebagai pemeran utama untuk film Penyalin Cahaya yang tayang pada 2021 lalu. Bahkan film tersebut berhasil mendapatkan nominasi Piala Citra untuk kategori Pemeran Utama Perempuan Terbaik di acara penghargaan Festival Film Indonesia 2021. Apakah Grameds sudah menonton film tersebut? Shenina tidak hanya aktif pada film layar lebar saja lho, tetapi juga pada serial web, serial televisi, dan bahkan cukup banyak FTV yang diperankannya.</item>
+        <item>Nama Febby Rastanty sebenarnya telah dikenal oleh masyarakat karena dirinya adalah aktris cilik. Salah satu serial televisi yang mengantarkannya ke gerbang kepopuleran adalah Eneng dan Kaos Kaki Ajaib pada tahun 2007. Hayo, apakah Grameds masih ingat dengan serial televisi tersebut? Febby Rastanty lahir pada 1 Februari 1996 yang ternyata merupakan sepupu dari aktris Ranty Maria.</item>
+    </string-array>
+</resources>
